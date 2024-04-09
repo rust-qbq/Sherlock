@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["PacketExchange","Data structure describing the list of protocols, total bytes, and timestamps of the first and last packet exchange in a connection"],["SourceDestination","Ip addresses and port numbers of source and destination of a packet exchange"]]};
